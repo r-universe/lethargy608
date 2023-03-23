@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "HCTR"]
+	path = HCTR
+	url = https://github.com/cran/HCTR
+	shallow = true
+	registered = true
+[submodule "sssc"]
+	path = sssc
+	url = https://github.com/cran/sssc
+	shallow = true
+	registered = true
+[submodule "vanquish"]
+	path = vanquish
+	url = https://github.com/cran/vanquish
+	shallow = true
+	registered = true
