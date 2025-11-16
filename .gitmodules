@@ -5,9 +5,3 @@
 [submodule "HCTR"]
 	path = HCTR
 	url = https://github.com/cran/HCTR
-[submodule "sssc"]
-	path = sssc
-	url = https://github.com/cran/sssc
-[submodule "vanquish"]
-	path = vanquish
-	url = https://github.com/cran/vanquish
